@@ -34,8 +34,8 @@ A simple chatbot built with LangChain, OpenAI, FastAPI, LangServe, and Streamlit
 1. Clone the repository:
 
    ```powershell
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-   cd YOUR_REPOSITORY
+   git clone https://github.com/raajCh28/LangChain_ChatBot.git
+   cd LangChain_ChatBot
    ```
 
 2. Create and activate a virtual environment:
